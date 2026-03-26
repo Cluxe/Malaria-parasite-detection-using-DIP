@@ -3,6 +3,15 @@
   <p><i>A Rule-Based Digital Image Processing Framework</i></p>
 </div>
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-green?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/Library-NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellowgreen)
+
+![Malaria Detection Result](Result/output.png)
+
 ## Abstract
 
 This work presents a computational framework for the automated detection of malaria parasites and quantification of red blood cells (RBCs) in Giemsa-stained microscopic blood smear images. Developed as a Complex Engineering Problem (CEP), the system is implemented in Python and strictly adheres to classical image processing methodologies, avoiding machine learning or deep learning techniques.

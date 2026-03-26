@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Automated Malaria Parasite Detection and Red Blood Cell Quantification</h1>
-  <p><i>An Rule-Based Digital Image Processing Framework</i></p>
+  <p><i>A Rule-Based Digital Image Processing Framework</i></p>
 </div>
 
 ## Abstract

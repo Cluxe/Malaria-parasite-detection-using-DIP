@@ -86,15 +86,22 @@ The system includes adjustable parameters such as:
 - Automatic parasitemia computation  
 - Real-time visual verification  
 
+## 6. Live Demo
 
-## 6. Conclusion
+Upload a smear image. Tune parameters in sidebar. Green circles = RBCs, red dots = infected RBC centers. 
+Educational use only.
+
+Live Demo: https://dip-cep-malaria-detection.streamlit.app/
+Test images are provided in the test_image folder.
+
+## 7. Conclusion
 
 This work demonstrates that classical image processing techniques can effectively address complex biomedical image analysis tasks. The proposed framework provides a transparent and computationally efficient alternative to black-box AI systems.
 
 While not suitable for clinical deployment, the system serves as a strong foundation for academic research and future hybrid approaches integrating explainable AI.
 
 
-## 7. Authors and Affiliation
+## 8. Authors and Affiliation
 
 - Souman Ahmad (22-EE-07)  
 - Hamza (22-EE-51)  
@@ -104,7 +111,7 @@ While not suitable for clinical deployment, the system serves as a strong founda
 **Department of Electrical Engineering**  
 **University of Engineering and Technology (UET), Taxila**
 
-## 8. Academic Supervision
+## 9. Academic Supervision
 
 **Dr. Junaid Mir, Assistant Professor, UET Taxila**
 
